@@ -1,0 +1,7 @@
+[di2e]
+name=DI2E-specific packages
+baseurl=http://yum.di2e.net/pub/repos/centos/7/di2e/x86_64/
+enabled=1
+gpgcheck=0
+repo_gpgcheck=0
+metadata_expire=600
